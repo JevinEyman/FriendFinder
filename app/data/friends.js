@@ -1,15 +1,14 @@
 var friends = [{
-   "friendName": "Frank",
-   "friendEmail": "franquito@gmail.com",
-   "friendID": "frankTheAwsome",
-   "phoneNumber": "786-587-0887"
+    "name":"Ann",
+    "photo":"#",
+    "scores": [5, 1, 3, 4, 5, 1, 2, 5, 4, 1]
+
  },
 
  {
-   "friendName": "Sherwin",
-   "friendEmail": "sherwino@gmail.com",
-   "friendID": "sherwino69",
-   "phoneNumber": "305-587-0887"
+    "name":"Michael",
+    "photo":"#",
+    "scores": [3, 2, 5, 4, 5, 1, 2, 5, 4, 1]
  }
  ]
 
